@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarinosTBH
 - 👀 I’m interested in web development, Cyber Security and Digital Marketing 
-- 🌱 I’m currently learning Front-end developing(React)
-- 💞️ I’m looking to collaborate on front-end projects
+- 🌱 I’m currently learning Full Stack web developing(MERN)
+- 💞️ I’m looking to collaborate on full-stack projects
 - 📫 you can reach me on : 
 - + Linkedin : www.linkedin.com/in/M-A-T
 - + Number/Whatsapp/Telegram : +21656******
