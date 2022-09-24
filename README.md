@@ -1,4 +1,4 @@
-- 👋 My first full-stack mern tuto : https://souvenirs-app-project.netlify.app/ .
+- 👋 My first full-stack mern app : https://souvenirs-app-project.netlify.app/ .
 - 👀 I’m interested in web development, Cyber Security and Digital Marketing 
 - 🌱 I’m currently learning Full Stack web developing(MERN)
 - 💞️ I’m looking to collaborate on front-end & full-stack projects
