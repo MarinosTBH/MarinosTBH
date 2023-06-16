@@ -2,7 +2,7 @@
 - And this app : https://souvenirsappproject.netlify.app/
 - 👀 I’m interested in web development, Cyber Security and Digital Marketing 
 - 🌱 I’m currently a Full Stack web developer.
-- 💞️ I’m looking to collaborate on web JS web applications
+- 💞️ I’m looking to collaborate on JS web applications
 - 📫 you can reach me on : 
 - + Linkedin : www.linkedin.com/in/M-A-T
 - + Number/Whatsapp/Telegram : +21656******
