@@ -6,7 +6,6 @@
 - 📫 you can reach me on : 
 - + Linkedin : www.linkedin.com/in/M-A-T
 - + Number/Whatsapp/Telegram : +21656******
-- + Email : Hamma-terbah@********
 
 <!---
 MarinosTBH/MarinosTBH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
