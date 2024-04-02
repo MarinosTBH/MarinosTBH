@@ -4,7 +4,7 @@ I'm a Full Stack Web Developer with a passion for Web Development, Cybersecurity
 
 Check out my work:
 
-    Blog: Blog Title: https://mat-dev-blog-nextjs.vercel.app/ (built with Next.js)
+Blog: Blog Title: https://mat-dev-blog-nextjs.vercel.app/ (built with Next.js)
     Sample App: Sample App Title: https://souvenirsappproject.netlify.app/
 
 Let's connect!
