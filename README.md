@@ -1,5 +1,3 @@
-I'd be glad to craft a professional bio in markdown format, incorporating the best aspects of the provided information and addressing potential privacy concerns:
-
 **Hi there! **
 
 I'm a Full Stack Web Developer with a passion for Web Development, Cybersecurity, and Digital Marketing. ️
