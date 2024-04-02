@@ -1,14 +1,18 @@
-- 👋 Take a look at my blog : [https://mat-dev-blog-nextjs.vercel.app/](https://mat-dev-blog-nextjs.vercel.app/) 
-- And this app : https://souvenirsappproject.netlify.app/
-- And this new App : http://travago.42web.io/
-- 👀 I’m interested in web development, Cyber Security and Digital Marketing 
-- 🌱 I’m currently a Full Stack web developer.
-- 💞️ I’m looking to collaborate on JS web applications
-- 📫 you can reach me on : 
-- + Linkedin : www.linkedin.com/in/M-A-T
-- + Number/Whatsapp/Telegram : +21656******
+I'd be glad to craft a professional bio in markdown format, incorporating the best aspects of the provided information and addressing potential privacy concerns:
 
-<!---
-MarinosTBH/MarinosTBH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Hi there! **
+
+I'm a Full Stack Web Developer with a passion for Web Development, Cybersecurity, and Digital Marketing. ️
+
+Check out my work:
+
+    Blog: Blog Title: https://mat-dev-blog-nextjs.vercel.app/ (built with Next.js)
+    Sample App: Sample App Title: https://souvenirsappproject.netlify.app/
+
+Let's connect!
+
+    LinkedIn: LinkedIn Profile: www.linkedin.com/in/M-A-T [invalid URL removed]
+
+Looking to collaborate?
+
+I'm eager to team up on JavaScript web applications. Feel free to reach out via LinkedIn.
