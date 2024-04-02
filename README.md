@@ -4,15 +4,15 @@ I'm a Full Stack Web Developer with a passion for Web Development, Cybersecurity
 
 Check out my work:
 
-Blog with **NEXTJS**: [mat-dev-blog](https://mat-dev-blog-nextjs.vercel.app/)
+Blog with **NEXTJS**: [Mat-dev-blog](https://mat-dev-blog-nextjs.vercel.app/)
 
-Sample App with **REACT & NODE**: https://souvenirsappproject.netlify.app/
+Sample App with **REACT & NODE**: [Souvenirs](https://souvenirsappproject.netlify.app/)
 
-PHP App with **PHP & TAILWIND**: http://travago.42web.io/
+PHP App with **PHP & TAILWIND**: [Travago](http://travago.42web.io/)
 
 Let's connect!
 
-LinkedIn: www.linkedin.com/in/M-A-T [invalid URL removed]
+LinkedIn: [M-A-T](www.linkedin.com/in/M-A-T)
 
 Looking to collaborate?
 
