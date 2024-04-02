@@ -14,7 +14,7 @@ I'm a Full Stack Web Developer with a passion for Web Development, Cybersecurity
 
 **Looking to collaborate?**
 Connect :
-  - LinkedIn: [M-A-T](www.linkedin.com/in/M-A-T)
+  - LinkedIn: [M-A-T](https://www.linkedin.com/in/M-A-T)
 
 Languages: [Javascript, Typescript, PHP]
 Technologies: [React, Node, Next, Nest, Symofny]
