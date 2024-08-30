@@ -21,4 +21,4 @@ Technologies: [React, Node, Next, Nest, Symofny]
 CMS: [Strapi]
 Need more ? There is Docker, AWS Functions (Lambda, CloudFormation, S3), MongoDB, PostgreSQL and more.
 
-Experienced with Rest Apis. 
+Experienced with Rest Apis, GraphQl and CI/CD.
