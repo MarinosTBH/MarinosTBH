@@ -10,7 +10,9 @@ I'm a Full Stack Web Developer with a passion for Web Development, Cybersecurity
 
 -PHP App with **PHP & TAILWIND**: [Travago](http://travago.42web.io/). **Personal**
 
--**Serverless** Mini Erp Startup [NextJs, NestJs, SympfonyPHP, AWS Lambda, MongoDB]: [Smart-work](www.smartwork.tn) with microservices artchitecture. At **AlchemyCode Co**
+-**Serverless** Mini Erp Startup [NextJs, NestJs, SympfonyPHP, AWS Lambda, Dynamoose, MongoDB]: [Smart-work](www.smartwork.tn) with microservices artchitecture. At **AlchemyCode Co**
+
+-**CMS** Part time Strapi developper at : [Make.org](https://make.org/). Via **AlchemyCode Co**
 
 **Looking to collaborate?**
 Connect :
