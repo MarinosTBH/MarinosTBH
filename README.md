@@ -1,6 +1,6 @@
 **👋 Hi there!**
 
-I'm a Full Stack Web Developer with a passion for Web Development, Cybersecurity, and Digital Marketing.
+I'm a Full Stack Web Developer with a passion for Web Development, and Digital Marketing.
 
 **Check out my work:**
 
